@@ -1,6 +1,7 @@
 FROM node:18
 
 # Set the working directory in the container
+# Cosmetic change
 WORKDIR /app
 
 # We don't need the standalone Chromium
