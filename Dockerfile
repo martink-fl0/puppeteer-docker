@@ -4,6 +4,7 @@ FROM node:18
 # Cosmetic change
 # Cosmetic change 2
 # Cosmetic change 3
+# Cosmetic change 4
 WORKDIR /app
 
 # We don't need the standalone Chromium
