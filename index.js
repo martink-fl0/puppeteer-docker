@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
-  console.log(`Message #7 is supposed to be logged`);
+  console.log(`Message #8 is supposed to be logged`);
 });
 
 (async () => {
