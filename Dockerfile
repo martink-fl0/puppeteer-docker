@@ -9,6 +9,7 @@ FROM node:18
 # Cosmetic change 6
 # Cosmetic change 7
 # Cosmetic change 8
+# Cosmetic change 9
 WORKDIR /app
 
 # We don't need the standalone Chromium
