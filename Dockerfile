@@ -1,15 +1,7 @@
 FROM node:18
 
 # Set the working directory in the container
-# Cosmetic change
-# Cosmetic change 2
-# Cosmetic change 3
-# Cosmetic change 4
-# Cosmetic change 5
-# Cosmetic change 6
-# Cosmetic change 7
-# Cosmetic change 8
-# Cosmetic change 9
+# Cosmetic change 10
 WORKDIR /app
 
 # We don't need the standalone Chromium
